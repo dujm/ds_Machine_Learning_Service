@@ -8,7 +8,7 @@ title: Streaming ML
 |   |CoreML   |ML Kit   |[Fritz](https://www.fritz.ai/)   |   |
 |---|---|---|---|---|
 |Platform   |iOS   |Android+iOs   |Android+iOs    |   |
-|Cloud APIs   |    |yes    |   |   |
+|Cloud APIs   |no    |yes    |   |   |
 |On-device APIs   |yes   |yes    |   |   |
 |Example   |   |   | [Object detection](https://github.com/fritzlabs)|   |   |
 
@@ -21,6 +21,11 @@ title: Streaming ML
 |Internet   |   |   |   
 |Price  |   |   |   |
 
+#### What are the problems in mobile deep learning capabilities?
+* Centralized APIs hosted on a cloud platform
+  * Latency
+  * Long Training Cycles
+  * Mobile Adaptability
 
 
 #### Use cases
@@ -38,8 +43,13 @@ title: Streaming ML
   * [Fast diagnostics in newborns by mobile x-ray images](https://www.abc.net.au/news/2017-02-17/x-ray-images-accurate-when-viewed-on-smartphone-study-finds/8277392)
 
   * [Image and Diagnosis Quality of X-Ray Image Transmission via Cell Phone Camera: A Project Study Evaluating Quality and Reliability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474770/)
-  
+
   * [MRI Image visulization mobile app](https://www.mimsoftware.com/mobile_cloud/mobile_mim)
+
+
+#### How to select an image in flutter?
+[Image Picker](https://flatteredwithflutter.com/image-picker-in-flutter/)
+
 
 
 ---
