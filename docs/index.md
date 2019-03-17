@@ -14,6 +14,7 @@ title: Streaming ML
 
 
 #### Cloud vs On-device based ML
+
 |   |On-device inference   |Cloud-based   |
 |---|---|---|---|
 |Performance   |   |   |
