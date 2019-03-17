@@ -5,15 +5,17 @@ title: Streaming ML
 
 ####  Mobile ML
 
-|   |CoreML   |ML Kit   |[Fritz](https://www.fritz.ai/)   |   |
+
+|   |CoreML   |ML Kit   |[Fritz](https://www.fritz.ai/)   |   
 |---|---|---|---|---|
-|Platform   |iOS   |Android+iOs   |Android+iOs    |   |
-|Cloud APIs   |no    |yes    |   |   |
-|On-device APIs   |yes   |yes    |   |   |
-|Example   |   |   | [Object detection](https://github.com/fritzlabs)|   |   |
+|Platform   |iOS   |Android+iOs   |Android+iOs    |   
+|Cloud APIs   |no    |yes    |   |   
+|On-device APIs   |yes   |yes    |   |   
+|Example   |   |   | [Object detection](https://github.com/fritzlabs)|   |   
 
 
 #### Cloud vs On-device based ML
+
 
 |   |On-device inference   |Cloud-based   |
 |---|---|---|---|
@@ -23,6 +25,7 @@ title: Streaming ML
 |Price  |   |   |   |
 
 #### What are the problems in mobile deep learning capabilities?
+
 * Centralized APIs hosted on a cloud platform
   * Latency
   * Long Training Cycles
