@@ -5,9 +5,8 @@ title: Streaming ML
 
 ####  Mobile ML
 
-
 |   |CoreML   |ML Kit   |[Fritz](https://www.fritz.ai/)   |   
-|---|---|---|---|---|
+|---|---|---|---|
 |Platform   |iOS   |Android+iOs   |Android+iOs    |   
 |Cloud APIs   |no    |yes    |   |   
 |On-device APIs   |yes   |yes    |   |   
@@ -18,7 +17,7 @@ title: Streaming ML
 
 
 |   |On-device inference   |Cloud-based   |
-|---|---|---|---|
+|---|---|---|
 |Performance   |   |   |
 |High-volumes of data   |   |   |   
 |Internet   |   |   |   
