@@ -5,10 +5,10 @@ title: Streaming ML
 
 ####  Mobile ML
 
-|   |CoreML   |ML Kit   |[Fritz](https://www.fritz.ai/)   |   
+|   |CoreML   |ML Kit   |[Fritz](https://www.fritz.ai/)   
 |---|---|---|---|
 |Platform   |iOS   |Android+iOs   |Android+iOs    |   
-|Cloud APIs   |no    |yes    |   |   
+|Cloud APIs   |no    |yes    |   |  
 |On-device APIs   |yes   |yes    |   |   
 |Example   |   |   | [Object detection](https://github.com/fritzlabs)|   |   
 
@@ -50,13 +50,11 @@ title: Streaming ML
   * [MRI Image visulization mobile app](https://www.mimsoftware.com/mobile_cloud/mobile_mim)
 
 
-#### How to select an image in flutter?
-[Image Picker](https://flatteredwithflutter.com/image-picker-in-flutter/)
-
 
 
 ---
 ### Read more?
+[Powering an iOS app with ML: How to get started using Create ML and Core ML](https://www.welcometothejungle.co/articles/ios-machine-learning)
 
 
 
