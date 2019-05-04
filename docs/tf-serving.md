@@ -39,3 +39,4 @@ curl -d '{"instances": [1.0, 2.0, 5.0]}' \
 #### References
  * [TensorFlow Serving](https://github.com/tensorflow/serving)
  * [MINST Example](https://colab.research.google.com/github/tensorflow/tfx/blob/master/docs/tutorials/serving/rest_simple.ipynb#scrollTo=0w5Rq8SsgWE6)
+ * [Building Standard TensorFlow ModelServer](https://www.tensorflow.org/tfx/serving/serving_advanced)
